@@ -56,6 +56,21 @@ More...
 
 ### 3D HOI Datasets
 
+
+- CHAIRS, [[Paper]](https://arxiv.org/pdf/2212.10621.pdf), [[Project]](https://jnnan.github.io/project/chairs/)
+
+- GRAB, [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490562.pdf), [[Project]](https://grab.is.tue.mpg.de/)
+
+- BEHAVE, [[Paper]](https://arxiv.org/pdf/2204.06950.pdf), [[Project]](https://virtualhumans.mpi-inf.mpg.de/behave/)
+
+- IMHD (CVPR 2024), [[Paper]](https://arxiv.org/abs/2312.08869), [[Project]](https://afterjourney00.github.io/IM-HOI.github.io/)
+
+- HOI-M3 (CVPR 2024), [[Paper]](https://arxiv.org/abs/2404.00299), [[Project]](https://juzezhang.github.io/HOIM3_ProjectPage/)
+
+- 3DIR (CVPR 2024), [[Paper]](https://arxiv.org/abs/2312.08963), [[Project]](https://yyvhang.github.io/LEMON/)
+
+- ProciGen (CVPR 2024), [[Paper]](https://arxiv.org/abs/2312.07063), [[Project]](https://virtualhumans.mpi-inf.mpg.de/procigen-hdm/)
+
 - ParaHome, [[Paper]](https://arxiv.org/pdf/2401.10232.pdf), [[Project]](https://jlogkim.github.io/parahome/)
 
 - BallPlay, [[Paper]](https://arxiv.org/pdf/2312.04393.pdf), [[Project]](https://wyhuai.github.io/physhoi-page/)
@@ -66,13 +81,7 @@ More...
 
 - HULC, [[Paper]](https://vcai.mpi-inf.mpg.de/projects/HULC/data/paper_light.pdf), [[Project]](https://vcai.mpi-inf.mpg.de/projects/HULC/)
 
-- CHAIRS, [[Paper]](https://arxiv.org/pdf/2212.10621.pdf), [[Project]](https://jnnan.github.io/project/chairs/)
-
-- GRAB, [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490562.pdf), [[Project]](https://grab.is.tue.mpg.de/)
-
 - HUMANISE, [[Paper]](https://silvester.wang/HUMANISE/paper.pdf), [[Project]](https://silvester.wang/HUMANISE/)
-
-- BEHAVE, [[Paper]](https://arxiv.org/pdf/2204.06950.pdf), [[Project]](https://virtualhumans.mpi-inf.mpg.de/behave/)
 
 - GraviCap, [[Paper]](https://arxiv.org/pdf/2108.08844.pdf), [[Project]](https://4dqv.mpi-inf.mpg.de/GraviCap/)
 
@@ -568,7 +577,7 @@ More... -->
 - Locomotion-Action-Manipulation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2301.02667.pdf), [[Porject]](https://jiyewise.github.io/projects/LAMA/)
 
 - ROAM (arXiv 2023) [[Paper]](https://arxiv.org/pdf/2308.12969.pdf), [[Project]](https://vcai.mpi-inf.mpg.de/projects/ROAM/)
-
+.gitattributes
 - Object pop-up (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2306.00777.pdf), [[Code]](https://github.com/ptrvilya/object-popup)
 
 - StackFLOW (IJCAI 2023) [[Paper]](https://www.ijcai.org/proceedings/2023/0100.pdf), [[Code]](https://github.com/huochf/StackFLOW)

@@ -2,7 +2,7 @@
 Some recent (2022-now) Human-Object Interaction 3D Generation Learning studies.
 ## Image Dataset/Benchmark
 
-- CAL (arXiv 2024.1), a contact-driven affordance learning dataset [[Paper]](https://arxiv.org/pdf/2410.11363), [[Project]](https://github.com/lhc1224/VCR-Net)
+<!-- - CAL (arXiv 2024.1), a contact-driven affordance learning dataset [[Paper]](https://arxiv.org/pdf/2410.11363), [[Project]](https://github.com/lhc1224/VCR-Net)
 
 - SynHOI (arXiv 2023.5), synthetic HOI data [[Paper]](https://arxiv.org/pdf/2305.12252.pdf)
 
@@ -52,7 +52,7 @@ More...
 
 - CAD120 [[Paper]](https://arxiv.org/pdf/1210.1207.pdf), [[Website]](http://pr.cs.cornell.edu/humanactivities/)
 
-- Sth-else [[Paper]](https://arxiv.org/abs/1912.09930), [[Website]](https://github.com/joaanna/something_else)
+- Sth-else [[Paper]](https://arxiv.org/abs/1912.09930), [[Website]](https://github.com/joaanna/something_else) -->
 
 ### 3D HOI Datasets
 
@@ -78,11 +78,11 @@ More...
 
 ## Survey
 
-- Human object interaction detection: Design and survey (Image and Vision Computing 2022), [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0262885622002463)
+- Not Found Yet
 
 ## Method
 
-### HOI Image Generation
+### Text To Motion
 
 - ReCorD: Reasoning and Correcting Diffusion for HOI Generation (ACM MM 2024) [[Paper]](https://arxiv.org/pdf/2407.17911), [[Project]](https://alberthkyhky.github.io/ReCorD/)
 
@@ -96,7 +96,7 @@ More...
 
 - Specifying Object Attributes and Relations in Interactive Scene Generation (arXiv 2019.11) [[Paper]](https://arxiv.org/pdf/1909.05379.pdf)
 
-### HOI Recognition: Image-based, to recognize all the HOIs in one image.
+### Image To Motion
 
 - RAM++ (arXiv'23) [[Paper]](https://arxiv.org/pdf/2310.15200.pdf), [[Code]](https://github.com/xinyu1205/recognize-anything)
 
@@ -127,7 +127,7 @@ More...
 
 More...
 
-#### Unseen or zero-shot learning (image-level recognition).
+<!-- #### Unseen or zero-shot learning (image-level recognition).
 
 - HTS (ICIP 2023) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10222927)
 
@@ -523,7 +523,7 @@ More...
 
 - GPNN (ECCV2018) [[Code]](https://github.com/SiyuanQi/gpnn) [[Paper]](https://arxiv.org/pdf/1808.07962.pdf)
 
-More...
+More... -->
 
 ### 3D HOI Reconstruction/Generation/Understanding
 

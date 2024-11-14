@@ -93,7 +93,7 @@ More...
 
 ### Text To Motion
 
-- ReCorD: Reasoning and Correcting Diffusion for HOI Generation (ACM MM 2024) [[Paper]](https://arxiv.org/pdf/2407.17911), [[Project]](https://alberthkyhky.github.io/ReCorD/)
+- CG-HOI: Contact-Guided 3D Human-Object Interaction Generation (CVPR 2024 2024) [[Paper]](https://arxiv.org/abs/2311.16097), [[Project]](https://www.christian-diller.de/projects/cg-hoi/)
 
 - InteractDiffusion: Interaction-Control for Text-to-Image Diffusion Model (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Hoe_InteractDiffusion_Interaction_Control_in_Text-to-Image_Diffusion_Models_CVPR_2024_paper.html), [[Project]](https://jiuntian.github.io/interactdiffusion/)
 
@@ -644,7 +644,7 @@ More... -->
 
 ## Result
 
-### [PaStaNet-HOI](https://github.com/DirtyHarryLYL/Transferable-Interactiveness-Network):
+<!-- ### [PaStaNet-HOI](https://github.com/DirtyHarryLYL/Transferable-Interactiveness-Network):
 Proposed by TIN (TPAMI version, Transferable Interactiveness Network).
 It is built on HAKE data, includes 110K+ images and 520 HOIs (without the 80 "no_interaction" HOIs of HICO-DET to avoid the incomplete labeling). 
 It has a more severe long-tailed data distribution thus is more difficult.
@@ -1188,4 +1188,4 @@ based on V-COCO
 [Mallya et.al.+HAKE-HICO](https://github.com/DirtyHarryLYL/HAKE-Action/tree/Image-level-HAKE-Action) |45.0 (**+8.9**)|
 [Pairwise](http://openaccess.thecvf.com/content_ECCV_2018/papers/Haoshu_Fang_Pairwise_Body-Part_Attention_ECCV_2018_paper.pdf) |39.9| 
 [Pairwise+HAKE-HICO](https://github.com/DirtyHarryLYL/HAKE-Action/tree/Image-level-HAKE-Action)|45.9 (**+6.0**)|
-[Pairwise+HAKE-Large](https://github.com/DirtyHarryLYL/HAKE-Action/tree/Image-level-HAKE-Action)|46.3 (**+6.4**)|
+[Pairwise+HAKE-Large](https://github.com/DirtyHarryLYL/HAKE-Action/tree/Image-level-HAKE-Action)|46.3 (**+6.4**)| -->

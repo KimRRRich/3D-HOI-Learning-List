@@ -95,15 +95,14 @@ More...
 
 - CG-HOI: Contact-Guided 3D Human-Object Interaction Generation (CVPR 2024 2024) [[Paper]](https://arxiv.org/abs/2311.16097), [[Project]](https://www.christian-diller.de/projects/cg-hoi/)
 
-- InteractDiffusion: Interaction-Control for Text-to-Image Diffusion Model (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Hoe_InteractDiffusion_Interaction_Control_in_Text-to-Image_Diffusion_Models_CVPR_2024_paper.html), [[Project]](https://jiuntian.github.io/interactdiffusion/)
+- InterFusion: Text-Driven Generation of 3D Human-Object Interaction (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2403.15612), [[Project]](https://sisidai.github.io/InterFusion/)
 
-- Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Person_in_Place_Generating_Associative_Skeleton-Guidance_Maps_for_Human-Object_Interaction_CVPR_2024_paper.pdf), [[Code]](https://github.com/YangChangHee/CVPR2024_Person-In-Place_RELEASE)
+- HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Song_HOIAnimator_Generating_Text-prompt_Human-object_Animations_using_Novel_Perceptive_Diffusion_Models_CVPR_2024_paper.html), [[Project]](https://zxylinkstart.github.io/HOIAnimator-Web/)
 
-- VirtualModel: Generating Object-ID-retentive Human-object Interaction Image by Diffusion Model for E-commerce Marketing (arXiv 2024.5) [[Paper]](https://arxiv.org/pdf/2405.09985) [[Code]](https://aigcdesigngroup.github.io/replace-anything/)
+- Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.00562) [[Project]](https://mq-zhang1.github.io/HOIDiffusion/)
 
-- Exploiting Relationship for Complex-scene Image Generation (arXiv 2021.04) [[Paper]](https://arxiv.org/pdf/2104.00356.pdf)
-
-- Specifying Object Attributes and Relations in Interactive Scene Generation (arXiv 2019.11) [[Paper]](https://arxiv.org/pdf/1909.05379.pdf)
+- GenZI: Zero-Shot 3D Human-Scene Interaction Generation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2311.17737)
+ [[Project]](https://craigleili.github.io/projects/genzi/)
 
 ### Image To Motion
 

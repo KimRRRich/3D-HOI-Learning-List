@@ -87,6 +87,8 @@ More...
 
 ### Hand Foucs
 
+
+
 ## Survey
 
 - Not Found Yet
@@ -96,9 +98,22 @@ More...
 ### 3D HOI Reconstruction
 
 #### Whole Body
+- I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions (CVPR 2024) [[Paper]](https://arxiv.org/abs/2312.08869) [[Project]](https://afterjourney00.github.io/IM-HOI.github.io/)
+
+- HOI-M3: Capture Multiple Humans and Objects Interaction within Contextual Environment (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.00299) [[Project]](https://juzezhang.github.io/HOIM3_ProjectPage/)
+
+- LEMON: Learning 3D Human-Object Interaction Relation from 2D Images (CVPR 2024) [[Paper]](https://arxiv.org/abs/2312.08963) [[Project]](https://yyvhang.github.io/LEMON/)
+
+- Template Free Reconstruction of Human-object Interaction with Procedural Interaction Generation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2312.07063) [[Project]](https://virtualhumans.mpi-inf.mpg.de/procigen-hdm/)
+
+- Visibility Aware Human-Object Interaction Tracking from Single RGB Camera (CVPR 2023) [[Paper]](https://arxiv.org/abs/2303.16479) [[Project]](https://virtualhumans.mpi-inf.mpg.de/VisTracker/)
+
+- NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions (CVPR 2023) [[Paper]](https://arxiv.org/abs/2212.07626) [[Project]](https://juzezhang.github.io/NeuralDome/)
 
 #### Hand Focus
+- G-HOP: Generative Hand-Object Prior  for Interaction Reconstruction and Grasp Synthesis (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.12383) [[Project]](https://judyye.github.io/ghop-www/)
 
+- HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields (CVPR 2024) [[Paper]](https://arxiv.org/abs/2402.17062) [[Project]](https://amathislab.github.io/HOISDF/)
 
 
 
@@ -110,12 +125,18 @@ More...
 
 #### Whole Body
 - CG-HOI: Contact-Guided 3D Human-Object Interaction Generation (CVPR 2024 2024) [[Paper]](https://arxiv.org/abs/2311.16097), [[Project]](https://www.christian-diller.de/projects/cg-hoi/)
+
 - InterFusion: Text-Driven Generation of 3D Human-Object Interaction (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2403.15612), [[Project]](https://sisidai.github.io/InterFusion/)
+
 - HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Song_HOIAnimator_Generating_Text-prompt_Human-object_Animations_using_Novel_Perceptive_Diffusion_Models_CVPR_2024_paper.html), [[Project]](https://zxylinkstart.github.io/HOIAnimator-Web/)
+
 - GenZI: Zero-Shot 3D Human-Scene Interaction Generation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2311.17737), [[Project]](https://craigleili.github.io/projects/genzi/)
+
 
 #### Hand Focus
 - Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.00562) [[Project]](https://mq-zhang1.github.io/HOIDiffusion/)
+
+- G-HOP: Generative Hand-Object Prior  for Interaction Reconstruction and Grasp Synthesis (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.12383) [[Project]](https://judyye.github.io/ghop-www/)
 
 <!-- - RAM++ (arXiv'23) [[Paper]](https://arxiv.org/pdf/2310.15200.pdf), [[Code]](https://github.com/xinyu1205/recognize-anything)
 

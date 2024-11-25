@@ -56,7 +56,7 @@ More...
 
 ### 3D HOI Datasets
 
-
+### Whole Body
 - CHAIRS, [[Paper]](https://arxiv.org/pdf/2212.10621.pdf), [[Project]](https://jnnan.github.io/project/chairs/)
 
 - GRAB, [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490562.pdf), [[Project]](https://grab.is.tue.mpg.de/)
@@ -85,13 +85,19 @@ More...
 
 - GraviCap, [[Paper]](https://arxiv.org/pdf/2108.08844.pdf), [[Project]](https://4dqv.mpi-inf.mpg.de/GraviCap/)
 
+### Hand Foucs
+
 ## Survey
 
 - Not Found Yet
 
 ## Method
 
-### Text To Motion
+### 3D HOI Reconstruction
+
+#### Whole Body
+
+#### Hand Focus
 
 - CG-HOI: Contact-Guided 3D Human-Object Interaction Generation (CVPR 2024 2024) [[Paper]](https://arxiv.org/abs/2311.16097), [[Project]](https://www.christian-diller.de/projects/cg-hoi/)
 
@@ -104,7 +110,12 @@ More...
 - GenZI: Zero-Shot 3D Human-Scene Interaction Generation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2311.17737)
  [[Project]](https://craigleili.github.io/projects/genzi/)
 
-### Image To Motion
+### 3D HOI Generation
+
+#### Whole Body
+
+#### Hand Focus
+
 
 - RAM++ (arXiv'23) [[Paper]](https://arxiv.org/pdf/2310.15200.pdf), [[Code]](https://github.com/xinyu1205/recognize-anything)
 
@@ -134,6 +145,8 @@ More...
 - SGAP-Net (AAAI2020) [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-JiZ.4799.pdf)
 
 More...
+
+### 3D HOI ReinforceLearning
 
 <!-- #### Unseen or zero-shot learning (image-level recognition).
 

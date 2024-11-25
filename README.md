@@ -99,25 +99,25 @@ More...
 
 #### Hand Focus
 
-- CG-HOI: Contact-Guided 3D Human-Object Interaction Generation (CVPR 2024 2024) [[Paper]](https://arxiv.org/abs/2311.16097), [[Project]](https://www.christian-diller.de/projects/cg-hoi/)
 
-- InterFusion: Text-Driven Generation of 3D Human-Object Interaction (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2403.15612), [[Project]](https://sisidai.github.io/InterFusion/)
 
-- HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Song_HOIAnimator_Generating_Text-prompt_Human-object_Animations_using_Novel_Perceptive_Diffusion_Models_CVPR_2024_paper.html), [[Project]](https://zxylinkstart.github.io/HOIAnimator-Web/)
 
-- Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.00562) [[Project]](https://mq-zhang1.github.io/HOIDiffusion/)
 
-- GenZI: Zero-Shot 3D Human-Scene Interaction Generation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2311.17737)
- [[Project]](https://craigleili.github.io/projects/genzi/)
+
+
 
 ### 3D HOI Generation
 
 #### Whole Body
+- CG-HOI: Contact-Guided 3D Human-Object Interaction Generation (CVPR 2024 2024) [[Paper]](https://arxiv.org/abs/2311.16097), [[Project]](https://www.christian-diller.de/projects/cg-hoi/)
+- InterFusion: Text-Driven Generation of 3D Human-Object Interaction (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2403.15612), [[Project]](https://sisidai.github.io/InterFusion/)
+- HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Song_HOIAnimator_Generating_Text-prompt_Human-object_Animations_using_Novel_Perceptive_Diffusion_Models_CVPR_2024_paper.html), [[Project]](https://zxylinkstart.github.io/HOIAnimator-Web/)
+- GenZI: Zero-Shot 3D Human-Scene Interaction Generation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2311.17737), [[Project]](https://craigleili.github.io/projects/genzi/)
 
 #### Hand Focus
+- Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.00562) [[Project]](https://mq-zhang1.github.io/HOIDiffusion/)
 
-
-- RAM++ (arXiv'23) [[Paper]](https://arxiv.org/pdf/2310.15200.pdf), [[Code]](https://github.com/xinyu1205/recognize-anything)
+<!-- - RAM++ (arXiv'23) [[Paper]](https://arxiv.org/pdf/2310.15200.pdf), [[Code]](https://github.com/xinyu1205/recognize-anything)
 
 - OpenTAP (ECCV'22) [[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_12.pdf), [[Code]](https://vkhoi.github.io/TAP)
 
@@ -142,7 +142,7 @@ More...
 
 - HOCNN (ICCV2015) [[Code]](https://github.com/ywchao/hico_benchmark) [[Paper]](http://www-personal.umich.edu/~ywchao/publications/chao_iccv2015.pdf)
 
-- SGAP-Net (AAAI2020) [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-JiZ.4799.pdf)
+- SGAP-Net (AAAI2020) [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-JiZ.4799.pdf) -->
 
 More...
 

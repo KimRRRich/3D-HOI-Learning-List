@@ -71,6 +71,8 @@ Some recent (2022-now) Human-Object Interaction 3D Generation Learning studies.
 
 - Hand-Object Interaction Controller (HOIC): Deep Reinforcement Learning for Reconstructing Interactions with Physics (SIGGRAPH 2024) [[Paper]](https://arxiv.org/abs/2405.02676v1) [[Project]](https://github.com/hu-hy17/HOIC)
 
+- Hand-Centric Motion Refinement for 3D Hand-Object Interaction via Hierarchical Spatial-Temporal Modeling (AAAI 2024) [[Paper]](https://arxiv.org/abs/2401.15987) [[Project]](https://github.com/Holiday888/HST-Net)
+
 
 
 
@@ -85,6 +87,8 @@ Some recent (2022-now) Human-Object Interaction 3D Generation Learning studies.
 - HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Song_HOIAnimator_Generating_Text-prompt_Human-object_Animations_using_Novel_Perceptive_Diffusion_Models_CVPR_2024_paper.html), [[Project]](https://zxylinkstart.github.io/HOIAnimator-Web/)
 
 - GenZI: Zero-Shot 3D Human-Scene Interaction Generation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2311.17737), [[Project]](https://craigleili.github.io/projects/genzi/)
+
+- F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions (ECCV 2024) [[Paper]](https://arxiv.org/abs/2407.12435), [[Project]](https://f-hoi.github.io/)
 
 
 #### Hand Focus

@@ -5,7 +5,7 @@ Some recent (2022-now) Human-Object Interaction 3D Generation Learning studies.
 ### 3D HOI Datasets
 
 ### Whole Body
-- CHAIRS, [[Paper]](https://arxiv.org/pdf/2212.10621.pdf), [[Project]](https://jnnan.github.io/project/chairs/)
+- CHAIRS, [[Paper]](https://arxiv.org/abs/2212.10621.pdf), [[Project]](https://jnnan.github.io/project/chairs/)
 
 - GRAB, [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490562.pdf), [[Project]](https://grab.is.tue.mpg.de/)
 

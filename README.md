@@ -1,4 +1,4 @@
-# HOI-3D-Generation-Learning-List
+# 3D-HOI-Learning-List
 Some recent (2022-now) Human-Object Interaction 3D Generation Learning studies.
 ## Image Dataset/Benchmark
 

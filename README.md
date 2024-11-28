@@ -90,6 +90,8 @@ Some recent (2022-now) Human-Object Interaction 3D Generation Learning studies.
 
 - F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions (ECCV 2024) [[Paper]](https://arxiv.org/abs/2407.12435), [[Project]](https://f-hoi.github.io/)
 
+- HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models(arXiv 2024) [[Paper]](https://arxiv.org/abs/2312.06553), [[Project]](https://neu-vi.github.io/HOI-Diff/)
+
 
 #### Hand Focus
 - Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.00562) [[Project]](https://mq-zhang1.github.io/HOIDiffusion/)
